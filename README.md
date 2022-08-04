@@ -23,8 +23,9 @@ In the Education section, I show the most relevant studies I have gotten during 
 
 Then, I show a cordial phrase to show my availability to work.
 
-And finally, the link to contact me on Linkedin, Github, and my email.
 
+And finally, the link to contact me on Linkedin, Github, and my email.
+![image](https://user-images.githubusercontent.com/96165500/182902755-fb045683-1d51-4952-a7e4-c7a3804c6afa.png)
 
 ## The portfolio
 If you want to see more about my portfolio, visit the next link:
